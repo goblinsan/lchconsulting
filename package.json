@@ -1,0 +1,15 @@
+{
+  "name": "lch_consulting_associates",
+  "version": "1.0.0",
+  "description": "lchconsulting.com react build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Coghlan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  },
+  "dependencies": {}
+}
