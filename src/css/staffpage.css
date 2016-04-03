@@ -1,0 +1,46 @@
+.page {
+  background-color: black;
+  background-image: url('/images/stock-photo-76126867-starry-sky.jpg');
+  background-repeat: no-repeat;
+  background-size: auto 140vh;
+  background-position: bottom right;
+  min-height: 105vh;
+  text-align: center;
+  padding: 0px;
+  margin-top: -5vh;
+}
+
+.staffText {
+  text-align: left;
+  position: relative;
+  top: 10vh;
+  left: 5vw;
+  width: 90vw;
+  padding: 10px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.2vw;
+  color: #d1e7ec;
+}
+
+.staffText h1 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 3vw;
+  margin-bottom: 2vh;
+}
+
+.staffTextSmall {
+  text-align: left;
+  position: relative;
+  left: 5vw;
+  width: 90vw;
+  padding: 10px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.5vh;
+  color: #d1e7ec;
+}
+
+.staffTextSmall h1 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 3vh;
+  margin-bottom: 2vh;
+}

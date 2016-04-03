@@ -1,0 +1,100 @@
+.page {
+  position: relative;
+  min-width: 100%;
+  background-color: black;
+  background-image: url('/images/stock-photo-78976357-natural-gas-fired-turbine-power-plant-fall-field-ca.jpg');
+  background-repeat: no-repeat;
+  background-size: auto 140vh;
+  background-position: bottom center;
+  min-height: 105vh;
+  text-align: center;
+  padding: 0px;
+}
+
+.services {
+  width: 75vw;
+  min-height: 50vh;
+  position: relative;
+  top: 15vh;
+  left:12.5vw;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.8vw;
+  color: #d1e7ec;
+}
+
+.services h2 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 2.5vw;
+  color: white;
+}
+
+.servicesSmall {
+  width: 98vw;
+  position: relative;
+  top: 15vh;
+  left:1vw;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 2.5vh;
+  color: #d1e7ec;
+}
+
+.servicesSmall h2 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 3vh;
+  color: white;
+}
+
+.industries {
+  position: relative;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.5vw;
+  color: #d1e7ec;
+  padding: 0vw 10vw;
+  width: 70vw;
+  left: 15vw;
+}
+
+.industries ul {
+  font-size: 1.2vw;
+  color: #223134;
+  display:block;
+  padding: 5px;
+  list-style-type: none;
+}
+
+.industries li{display:inline-block;}
+.industries li:after{content:'|'; margin:0 10px;}
+.industries li:last-child:after {content: '';}
+
+.industriesSmall {
+  position: absolute;;
+  bottom: 20vh;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 2vh;
+  color: #d1e7ec;
+  padding: 0 10vw;
+}
+
+.industriesSmall ul {
+  font-size: 1.2vh;
+  color: #223134;
+  display:block;
+  padding: 5px;
+  list-style-type: none;
+}
+
+.industriesSmall li{display:inline-block;}
+.industriesSmall li:after{content:'|'; margin:0 10px;}
+.industriesSmall li:last-child:after {content: '';}
+
+.double {
+  margin-left: 8vw;
+  margin-top: 5vh;
+}
+
+.double li  {
+  float:left;
+  display:inline;
+  text-align: left;
+  width:50%;
+}

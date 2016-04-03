@@ -1,7 +1,10 @@
 import React from 'react';
-import {render} from 'react-dom';
-import Greeter from './Greeter';
+import ReactDOM from 'react-dom';
+import Lch from './Lch';
 
 import './main.css';
 
-render(<Greeter />, document.getElementById('root'));
+ReactDOM.render(
+  <Lch />,
+  document.getElementById('root')
+);

@@ -1,0 +1,23 @@
+.navbarNomargin {
+  margin-bottom: 0px;
+  background-color: #313845;
+  color: white;
+  border: 0px none;
+  border-color: #313845;
+  border-radius: 0px;
+}
+
+.activeOverride{
+  background-color: #606671 !important;
+}
+
+.navbarNomargin a {
+  color: white !important;
+}
+
+.brand {
+  font-family: 'Michroma', sans-serif;
+  font-size: 2vh;
+  position: relative;
+  left: 15vw;
+}

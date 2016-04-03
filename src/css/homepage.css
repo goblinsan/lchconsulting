@@ -1,0 +1,75 @@
+.page {
+  background-color: black;
+  background-image: url('/images/stock-photo-4731452-power-plant-stacks.jpg');
+  background-repeat: no-repeat;
+  background-size: auto 140vh;
+  background-position: bottom right;
+  min-height: 95vh;
+  text-align: center;
+  padding: 0px;
+}
+
+.lchName h1{
+  position: relative;
+  top: 10vh;
+  font-family: 'Michroma', sans-serif;
+  color: black;
+  font-size: 3.5vw;
+  /*text-shadow: 0 0 0.1em #262e38, 0 0 0.1em #262e38, 0 0 0.1em #262e38;*/
+}
+
+.homeText {
+  width: 650px;
+  padding: 5px;
+  text-align: left;
+  position: relative;
+  top: 11vh;
+  right: -42vw;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.8vw;
+  color: #d1e7ec;
+}
+
+.homeText h2 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 3.3vw;
+  color: white;
+}
+
+.callToday {
+  font-family: 'Cabin', sans-serif;
+  font-size: 2.5vw;
+  color: white;
+}
+
+.callTodaySmall {
+  font-family: 'Cabin', sans-serif;
+  font-size: 3.5vh;
+  color: white;
+}
+
+.callToday a {
+    color: white;
+    text-decoration: none;
+}
+
+.callTodaySmall a {
+    color: white;
+    text-decoration: none;
+}
+
+.homeTextSmall {
+  padding: 2vw;
+  text-align: left;
+  position: relative;
+  top: 10vh;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 2vh;
+  color: white;
+}
+
+.homeTextSmall h2 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 4vh;
+  color: white;
+}

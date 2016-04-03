@@ -1,0 +1,32 @@
+.page {
+  background-color: black;
+  background-image: url('/images/stock-photo-67389707-beautiful-sky-with-white-cloud-background.jpg');
+  background-repeat: no-repeat;
+  background-size: auto 140vh;
+  background-position: bottom right;
+  min-height: 105vh;
+  text-align: center;
+  padding: 0px;
+  margin-top: -5vh;
+}
+
+.cemText {
+  position: relative;
+  top: 20vh;
+  left: 5vw;
+  width: 90vw;
+  padding: 10px;
+  font-family: 'Cabin', sans-serif;
+  font-size: 2vw;
+  color: #d1e7ec;
+}
+
+.cemTextSmall {
+  position: relative;
+  left: 5vw;
+  width: 90vw;
+  padding: 10px;
+  font-family: 'Cabin', sans-serif;
+  font-size: 2vh;
+  color: #d1e7ec;
+}

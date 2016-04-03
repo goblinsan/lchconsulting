@@ -1,0 +1,14 @@
+.root {
+  background-color: #363740;
+  padding: 0px;
+  border: 0px none;
+  color: #54c6b3;
+}
+
+.logo{
+  position: absolute;
+  z-index: 100;
+  left: 3vw;
+  top: .5vh;
+  width: 10vw;
+}
