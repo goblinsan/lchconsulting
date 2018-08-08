@@ -1,0 +1,115 @@
+.html {
+  font-size: 12px;
+
+  @media screen and (min-width: 900px) {
+    font-size: 16px;
+  }
+
+  @media screen and (min-width: 1200px) {
+    font-size: 20px;
+  }
+}
+
+.font-oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.lch-navbar {
+    background-color: #001f3a;
+}
+
+.navbar-default .lch-white{
+    color: white;
+}
+
+.navbar-default .lch-white:hover{
+    color: #71a1ce;
+}
+
+.navbar-default .lch-white:active{
+    color: white;
+}
+.navbar-default .lch-white:focus{
+    color: white;
+}
+.navbar-default .lch-white:visited{
+    color: white;
+}
+
+.navbar-default .lch-white>li>a{
+    color: white;
+}
+
+.navbar-default .lch-white>li>a:hover{
+    color: #71a1ce;
+}
+
+.navbar-default .lch-white>li>a:visited{
+    color: white;
+}
+
+.lch-right {
+    float: right
+}
+
+.lch-white {
+    color: white;
+}
+
+.lch-darkblue {
+    color: #001f3a;
+}
+
+.lch-midblue {
+    color: #003461;
+}
+
+.lch-white-panel {
+    background-color:rgba(255, 255, 255, 0.5);
+}
+
+.lch-blue-panel {
+    background-color:rgba(0, 31, 58, 0.8);
+}
+
+.lch-h1 {
+    font-weight: bold;
+}
+
+.lch-p {
+    font-size: 1.5rem;
+    margin-bottom: 5%;
+}
+
+.panel {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+
+ul {
+    list-style: none;
+}
+
+.page-bottom{
+    height: 80vh;
+}
+
+.contact-spacer{
+    min-height: 35vh;
+}
+
+.lch-brand {
+    margin-left: 0px;
+}
+
+#lch-logo {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    z-index: 1100;
+}
+
+.staff-hidden {
+    display: none;
+}
